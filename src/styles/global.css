@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --color-fondo: #F8FAFC;
+    --color-celeste: #D9EAFD;
+    --color-grisclaro: #BCCCDC;
+    --color-morado: #ed1376;
+    --color-grisoscuro: #9AA6B2;
+    --color-rosado: #ec407a;
+    --color-amarillo: #ff9a00;
+    --font-display: "exo", "ubuntu","segoe ui ", "arial", "sans-serif"; 
+}
